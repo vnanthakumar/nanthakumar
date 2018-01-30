@@ -6,7 +6,8 @@ int main()
     printf("Enter a number: ");
     scanf("%lf", &number);
 
-    if (number <= 10000)
+    if (number <= 10000
+        0
     {
         if (number == 10000)
             printf("You entered 0.");
