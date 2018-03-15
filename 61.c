@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+ void main()
 {
     char s[20];
     int n,i;
@@ -10,5 +10,5 @@ int main()
     {
         printf("%c",s[i]);
     }
-    return 0;
+    
 }
